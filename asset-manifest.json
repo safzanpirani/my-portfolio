@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.7bd74a9d.css",
+    "main.js": "/my-portfolio/static/js/main.38fb2b39.js",
+    "static/media/servista.png": "/my-portfolio/static/media/servista.be31d68020a10e4e893e.png",
+    "static/media/HeraCarpool.png": "/my-portfolio/static/media/HeraCarpool.c8b9f549e9769294b583.png",
+    "static/media/spacetourism.jpg": "/my-portfolio/static/media/spacetourism.4a331c08928df5caf584.jpg",
+    "static/media/url.jpg": "/my-portfolio/static/media/url.0708cbd5cf568f77d9f7.jpg",
+    "static/media/restcountries.jpg": "/my-portfolio/static/media/restcountries.bb92d8fafe0ed48d3167.jpg",
+    "static/media/intropage.jpg": "/my-portfolio/static/media/intropage.18702cdc49b53619778b.jpg",
+    "static/media/todo.jpg": "/my-portfolio/static/media/todo.b2dc38eabdbbf33a6c7f.jpg",
+    "static/media/7650561.webp": "/my-portfolio/static/media/7650561.48ab1b4c82beddbd8993.webp",
+    "static/media/advice.jpg": "/my-portfolio/static/media/advice.10a460b7858f4755b667.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.7bd74a9d.css.map": "/my-portfolio/static/css/main.7bd74a9d.css.map",
+    "main.38fb2b39.js.map": "/my-portfolio/static/js/main.38fb2b39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd74a9d.css",
+    "static/js/main.38fb2b39.js"
+  ]
+}
